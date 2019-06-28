@@ -10,7 +10,7 @@ The `Unreleased` section name is replaced by the expected version of next releas
 
 ### Added
 
-- `Kafka`/`Kafka0`: Added `KafkaMonitor` based on [Burrow](https://github.com/linkedin/Burrow) [#10](https://github.com/jet/propulsion/pull/10) [@jgardella](https://github.com/jgardella) 
+- `Kafka`/`Kafka0`: Added `KafkaMonitor` based on [Burrow](https://github.com/linkedin/Burrow) [#12](https://github.com/jet/propulsion/pull/12) [@jgardella](https://github.com/jgardella) 
 
 ### Changed
 ### Removed
